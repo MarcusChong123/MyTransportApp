@@ -738,7 +738,7 @@ Builder.load_string(
             id: sep
 
 <MrtMDDialog>
-    title: "Car Park Details"
+    title: "MRT Details"
     BoxLayout:
         orientation: 'vertical'
         padding: dp(15)
@@ -818,7 +818,7 @@ Builder.load_string(
             id: sep
 
 <LrtMDDialog>
-    title: "Car Park Details"
+    title: "LRT Details"
     BoxLayout:
         orientation: 'vertical'
         padding: dp(15)
